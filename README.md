@@ -33,17 +33,6 @@ A beautifully designed calculator with a soft blue aesthetic, smooth interaction
 - CSS
 - vanilla JavaScript
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Modern web browser (Chrome)
-
-### Installation
-Clone the repository:
-
-```bash
-git clone https://github.com/charuvarshini125/NumNook-Calculator.git
-
 
 ## 👩‍💻 Author
 
