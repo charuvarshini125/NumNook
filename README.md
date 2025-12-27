@@ -42,7 +42,7 @@ A beautifully designed calculator with a soft blue aesthetic, smooth interaction
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/NumNook-Calculator.git
+git clone https://github.com/charuvarshini125/NumNook-Calculator.git
 
 
 ## 👩‍💻 Author
