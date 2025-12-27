@@ -29,14 +29,14 @@ A beautifully designed calculator with a soft blue aesthetic, smooth interaction
 
 ## 🛠️ Technologies Used
 
-- HTML
+- HTML5
 - CSS
-- JavaScript
+- vanilla JavaScript
 
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Modern web browser (Chrome, Firefox, Safari, Edge)
+- Modern web browser (Chrome)
 
 ### Installation
 Clone the repository:
@@ -49,6 +49,8 @@ git clone https://github.com/charuvarshini125/NumNook-Calculator.git
 
 Charuvarshini M  
 GitHub:@charuvarshini125
+
+NumNook · built by charu 💙
  
 
 
