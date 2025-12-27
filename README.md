@@ -1,4 +1,4 @@
-# 🧮 NumNook Calculator
+# ⭐️NumNook Calculator
 
 A beautifully designed calculator with a soft blue aesthetic, smooth interactions, and a calm, minimal UI. Built as a personal web project to explore UI design and frontend fundamentals.
 
@@ -8,15 +8,15 @@ A beautifully designed calculator with a soft blue aesthetic, smooth interaction
 ![NumNook Preview](preview.png)
 
 
-## ✨ Features
+## Features
 
-### 🎨 Design
+### 🖱 Design
 - Soft pastel blue theme
 - Rounded buttons with subtle shadows
 - Minimal and clean layout
 - Calm, cozy UI
 
-### 🔢 Functionality
+### 🖱 Functionality
 - Basic arithmetic operations (+, −, ×, ÷)
 - Real-time input display
 - Clear (C) button
@@ -27,14 +27,14 @@ A beautifully designed calculator with a soft blue aesthetic, smooth interaction
 - Smooth transitions
 - Click-based input
 
-## 🛠️ Technologies Used
+## 🖱 Technologies Used
 
 - HTML5
 - CSS
 - vanilla JavaScript
 
 
-## 👩‍💻 Author
+## 👩🏻‍💻 Author
 
 Charuvarshini M  
 GitHub:@charuvarshini125
